@@ -1,4 +1,4 @@
-myProjects : [
+{myProjects : [
     {
       img: "/project_7.png",
       Weblink: "https://react-landing-page-1-sumit-adkhale.netlify.app/",
@@ -28,3 +28,4 @@ myProjects : [
       Weblink: "https://sumit-adkhale.github.io/Landing-Page-5/",
     },
   ];
+}
